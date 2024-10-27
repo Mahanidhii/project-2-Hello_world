@@ -1,7 +1,7 @@
 # Event Form using HTML
 
 ### Description
-A student registration form that collects basic information like name, age, email address, phone number, parent details.
+A student registration form that collects basic information like name, age, gender, email address, phone number, parent details, etc.
 
 ### Git commands used:
 1. `mkdir <file_name>` to create the folder
